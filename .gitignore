@@ -1,5 +1,5 @@
 .env
 service_account.json
-.json
-.key
+*.json
+*.key
 wasteredux_drive_api.json
