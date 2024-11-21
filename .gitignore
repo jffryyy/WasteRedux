@@ -1,3 +1,4 @@
 .env
 service_account.json
 wasteredux_drive_api.json
+node_modules/
